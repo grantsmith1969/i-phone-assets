@@ -1,0 +1,8 @@
+{
+  "name": "iPhone Assets",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "1768a4b9"
+}
